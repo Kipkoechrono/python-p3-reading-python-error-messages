@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-hello_world = 'Hello, world!'
+name = "hello world",
 print(hello_world)
 
 

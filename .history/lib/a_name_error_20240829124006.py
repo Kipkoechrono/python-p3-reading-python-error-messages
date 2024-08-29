@@ -1,5 +1,3 @@
 #!/usr/bin/env python3
-hello_world = 'Hello, world!'
+const name = 'hello_world'
 print(hello_world)
-
-
